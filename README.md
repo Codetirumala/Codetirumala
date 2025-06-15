@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Reddi Lakshmi Narasimha -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F79F1F&width=435&lines=Hi%2C+I'm+Reddi+Lakshmi+Narasimha;Full+Stack+%F0%9F%92%BB+Developer;AI+%26+ML+Enthusiast+%F0%9F%A7%96%E2%80%8D%E2%99%82%EF%B8%8F;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F79F1F&width=435&lines=Hi%2C+I'm+Reddi+Lakshmi+Nara+simha;Full+Stack+%F0%9F%92%BB+Developer;AI+%26+ML+Enthusiast+%F0%9F%A7%96%E2%80%8D%E2%99%82%EF%B8%8F;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <p align="center">
